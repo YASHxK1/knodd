@@ -1,0 +1,501 @@
+question_id,category,subcategory,difficulty,question_type,question,expected_answer_format
+Q000001,Mathematics,Arithmetic,Beginner,numeric,What is 18 plus 27,Single integer
+Q000002,Mathematics,Arithmetic,Beginner,numeric,What is 42 minus 19,Single integer
+Q000003,Mathematics,Arithmetic,Beginner,numeric,What is 9 times 7,Single integer
+Q000004,Mathematics,Arithmetic,Beginner,numeric,What is 56 divided by 7,Single integer
+Q000005,Mathematics,Arithmetic,Beginner,numeric,What is 13 plus 46,Single integer
+Q000006,Mathematics,Arithmetic,Beginner,numeric,What is 81 minus 36,Single integer
+Q000007,Mathematics,Arithmetic,Beginner,numeric,What is 12 times 11,Single integer
+Q000008,Mathematics,Arithmetic,Beginner,numeric,What is 96 divided by 8,Single integer
+Q000009,Mathematics,Arithmetic,Beginner,numeric,What is 27 plus 35,Single integer
+Q000010,Mathematics,Arithmetic,Beginner,numeric,What is 50 minus 23,Single integer
+Q000011,Mathematics,Arithmetic,Beginner,numeric,What is 14 times 6,Single integer
+Q000012,Mathematics,Arithmetic,Beginner,numeric,What is 72 divided by 9,Single integer
+Q000013,Mathematics,Arithmetic,Beginner,numeric,What is 29 plus 17,Single integer
+Q000014,Mathematics,Arithmetic,Beginner,numeric,What is 63 minus 27,Single integer
+Q000015,Mathematics,Arithmetic,Beginner,numeric,What is 8 times 9,Single integer
+Q000016,Mathematics,Arithmetic,Beginner,numeric,What is 48 divided by 6,Single integer
+Q000017,Mathematics,Arithmetic,Beginner,numeric,What is 31 plus 19,Single integer
+Q000018,Mathematics,Arithmetic,Beginner,numeric,What is 74 minus 39,Single integer
+Q000019,Mathematics,Arithmetic,Beginner,numeric,What is 15 times 5,Single integer
+Q000020,Mathematics,Arithmetic,Beginner,numeric,What is 90 divided by 15,Single integer
+Q000021,Mathematics,Arithmetic,Beginner,numeric,What is 44 plus 26,Single integer
+Q000022,Mathematics,Arithmetic,Beginner,numeric,What is 87 minus 48,Single integer
+Q000023,Mathematics,Arithmetic,Beginner,numeric,What is 16 times 4,Single integer
+Q000024,Mathematics,Arithmetic,Beginner,numeric,What is 84 divided by 12,Single integer
+Q000025,Mathematics,Arithmetic,Beginner,numeric,What is 35 plus 29,Single integer
+Q000026,Mathematics,Arithmetic,Beginner,numeric,What is 72 minus 41,Single integer
+Q000027,Mathematics,Arithmetic,Beginner,numeric,What is 7 times 13,Single integer
+Q000028,Mathematics,Arithmetic,Beginner,numeric,What is 75 divided by 5,Single integer
+Q000029,Mathematics,Arithmetic,Beginner,numeric,What is 33 plus 25,Single integer
+Q000030,Mathematics,Arithmetic,Beginner,numeric,What is 68 minus 24,Single integer
+Q000031,Mathematics,Arithmetic,Beginner,numeric,What is 6 times 12,Single integer
+Q000032,Mathematics,Arithmetic,Beginner,numeric,What is 54 divided by 9,Single integer
+Q000033,Mathematics,Arithmetic,Beginner,numeric,What is 22 plus 39,Single integer
+Q000034,Mathematics,Arithmetic,Beginner,numeric,What is 95 minus 47,Single integer
+Q000035,Mathematics,Arithmetic,Beginner,numeric,What is 17 times 3,Single integer
+Q000036,Mathematics,Arithmetic,Beginner,numeric,What is 63 divided by 7,Single integer
+Q000037,Mathematics,Arithmetic,Beginner,numeric,What is 26 plus 32,Single integer
+Q000038,Mathematics,Arithmetic,Beginner,numeric,What is 59 minus 17,Single integer
+Q000039,Mathematics,Arithmetic,Beginner,numeric,What is 21 times 4,Single integer
+Q000040,Mathematics,Arithmetic,Beginner,numeric,What is 45 divided by 5,Single integer
+Q000041,Mathematics,Arithmetic,Beginner,numeric,What is 41 plus 13,Single integer
+Q000042,Mathematics,Arithmetic,Beginner,numeric,What is 88 minus 52,Single integer
+Q000043,Mathematics,Arithmetic,Beginner,numeric,What is 18 times 5,Single integer
+Q000044,Mathematics,Arithmetic,Beginner,numeric,What is 50 divided by 10,Single integer
+Q000045,Mathematics,Arithmetic,Beginner,numeric,What is 37 plus 18,Single integer
+Q000046,Mathematics,Arithmetic,Beginner,numeric,What is 83 minus 29,Single integer
+Q000047,Mathematics,Arithmetic,Beginner,numeric,What is 11 times 8,Single integer
+Q000048,Mathematics,Arithmetic,Beginner,numeric,What is 78 divided by 13,Single integer
+Q000049,Mathematics,Arithmetic,Beginner,numeric,What is 47 plus 24,Single integer
+Q000050,Mathematics,Arithmetic,Beginner,numeric,What is 99 minus 55,Single integer
+Q000051,Mathematics,Arithmetic,Beginner,numeric,What is 24 times 3,Single integer
+Q000052,Mathematics,Arithmetic,Beginner,numeric,What is 108 divided by 12,Single integer
+Q000053,Mathematics,Arithmetic,Beginner,numeric,What is 51 plus 22,Single integer
+Q000054,Mathematics,Arithmetic,Beginner,numeric,What is 76 minus 33,Single integer
+Q000055,Mathematics,Arithmetic,Beginner,numeric,What is 19 times 6,Single integer
+Q000056,Mathematics,Arithmetic,Beginner,numeric,What is 144 divided by 12,Single integer
+Q000057,Mathematics,Arithmetic,Beginner,numeric,What is 28 plus 14,Single integer
+Q000058,Mathematics,Arithmetic,Beginner,numeric,What is 66 minus 31,Single integer
+Q000059,Mathematics,Arithmetic,Beginner,numeric,What is 23 times 4,Single integer
+Q000060,Mathematics,Arithmetic,Beginner,numeric,What is 60 divided by 5,Single integer
+Q000061,Mathematics,Arithmetic,Beginner,numeric,What is 39 plus 16,Single integer
+Q000062,Mathematics,Arithmetic,Beginner,numeric,What is 73 minus 28,Single integer
+Q000063,Mathematics,Arithmetic,Beginner,numeric,What is 25 times 5,Single integer
+Q000064,Mathematics,Arithmetic,Beginner,numeric,What is 80 divided by 8,Single integer
+Q000065,Mathematics,Arithmetic,Beginner,numeric,What is 32 plus 20,Single integer
+Q000066,Mathematics,Arithmetic,Beginner,numeric,What is 71 minus 43,Single integer
+Q000067,Mathematics,Arithmetic,Beginner,numeric,What is 14 times 7,Single integer
+Q000068,Mathematics,Arithmetic,Beginner,numeric,What is 98 divided by 14,Single integer
+Q000069,Mathematics,Arithmetic,Beginner,numeric,What is 48 plus 15,Single integer
+Q000070,Mathematics,Arithmetic,Beginner,numeric,What is 67 minus 22,Single integer
+Q000071,Mathematics,Arithmetic,Beginner,numeric,What is 13 times 9,Single integer
+Q000072,Mathematics,Arithmetic,Beginner,numeric,What is 81 divided by 9,Single integer
+Q000073,Mathematics,Arithmetic,Beginner,numeric,What is 36 plus 21,Single integer
+Q000074,Mathematics,Arithmetic,Beginner,numeric,What is 94 minus 46,Single integer
+Q000075,Mathematics,Arithmetic,Beginner,numeric,What is 12 times 8,Single integer
+Q000076,Mathematics,Arithmetic,Beginner,numeric,What is 64 divided by 4,Single integer
+Q000077,Mathematics,Arithmetic,Beginner,numeric,What is 45 plus 27,Single integer
+Q000078,Mathematics,Arithmetic,Beginner,numeric,What is 89 minus 58,Single integer
+Q000079,Mathematics,Arithmetic,Beginner,numeric,What is 9 times 13,Single integer
+Q000080,Mathematics,Arithmetic,Beginner,numeric,What is 117 divided by 13,Single integer
+Q000081,Mathematics,Arithmetic,Beginner,numeric,What is 30 plus 19,Single integer
+Q000082,Mathematics,Arithmetic,Beginner,numeric,What is 79 minus 38,Single integer
+Q000083,Mathematics,Arithmetic,Beginner,numeric,What is 16 times 6,Single integer
+Q000084,Mathematics,Arithmetic,Beginner,numeric,What is 54 divided by 6,Single integer
+Q000085,Mathematics,Arithmetic,Beginner,numeric,What is 53 plus 17,Single integer
+Q000086,Mathematics,Arithmetic,Beginner,numeric,What is 82 minus 44,Single integer
+Q000087,Mathematics,Arithmetic,Beginner,numeric,What is 20 times 5,Single integer
+Q000088,Mathematics,Arithmetic,Beginner,numeric,What is 100 divided by 20,Single integer
+Q000089,Mathematics,Arithmetic,Beginner,numeric,What is 24 plus 18,Single integer
+Q000090,Mathematics,Arithmetic,Beginner,numeric,What is 70 minus 25,Single integer
+Q000091,Mathematics,Arithmetic,Intermediate,numeric,If a box has 12 apples and 5 are removed what is left,Single integer
+Q000092,Mathematics,Arithmetic,Intermediate,numeric,A notebook costs 18 dollars and a pen costs 6 dollars What is the total cost,Single dollar amount
+Q000093,Mathematics,Arithmetic,Intermediate,numeric,If a bus travels 45 miles in 3 hours what is the average speed in miles per hour,Single number
+Q000094,Mathematics,Arithmetic,Intermediate,numeric,A shirt is discounted by 20 percent from 50 dollars What is the sale price,Single dollar amount
+Q000095,Mathematics,Arithmetic,Intermediate,numeric,What is 15 percent of 200,Single integer
+Q000096,Mathematics,Arithmetic,Intermediate,numeric,What is 3 raised to the power of 4,Single integer
+Q000097,Mathematics,Arithmetic,Intermediate,numeric,What is the square root of 144,Single integer
+Q000098,Mathematics,Arithmetic,Intermediate,numeric,If 8 pencils cost 24 dollars what is the unit cost per pencil,Single dollar amount
+Q000099,Mathematics,Arithmetic,Intermediate,numeric,What is 7 plus 6 times 3,Single integer
+Q000100,Mathematics,Arithmetic,Intermediate,numeric,What is 40 percent of 80,Single integer
+Q000101,Mathematics,Algebra,Intermediate,short_answer,Solve for x if x plus 5 equals 12,Single value
+Q000102,Mathematics,Algebra,Intermediate,short_answer,Solve for y if 3y equals 21,Single value
+Q000103,Mathematics,Algebra,Intermediate,short_answer,Solve for z if z minus 7 equals 11,Single value
+Q000104,Mathematics,Algebra,Intermediate,short_answer,Solve for a if 2a plus 4 equals 16,Single value
+Q000105,Mathematics,Algebra,Intermediate,short_answer,Solve for b if 5b minus 3 equals 17,Single value
+Q000106,Mathematics,Algebra,Intermediate,short_answer,Solve for c if c divided by 4 equals 6,Single value
+Q000107,Mathematics,Algebra,Intermediate,short_answer,Solve for d if 4d plus 7 equals 31,Single value
+Q000108,Mathematics,Algebra,Intermediate,short_answer,Solve for e if 6e minus 9 equals 21,Single value
+Q000109,Mathematics,Algebra,Intermediate,short_answer,Solve for f if f plus 12 equals 30,Single value
+Q000110,Mathematics,Algebra,Intermediate,short_answer,Solve for g if 3g plus 5 equals 26,Single value
+Q000111,Mathematics,Geometry,Intermediate,short_answer,What is the perimeter of a rectangle with length 8 and width 5,Single number
+Q000112,Mathematics,Geometry,Intermediate,short_answer,What is the area of a triangle with base 10 and height 6,Single number
+Q000113,Mathematics,Geometry,Intermediate,short_answer,What is the circumference of a circle with radius 7 using pi as 3.14,Single number
+Q000114,Mathematics,Geometry,Intermediate,short_answer,What is the area of a rectangle with side lengths 9 and 4,Single number
+Q000115,Mathematics,Geometry,Intermediate,short_answer,How many sides does a hexagon have,Single integer
+Q000116,Mathematics,Geometry,Intermediate,short_answer,What is the sum of the interior angles of a triangle,Single integer
+Q000117,Mathematics,Geometry,Intermediate,short_answer,What is the sum of the interior angles of a quadrilateral,Single integer
+Q000118,Mathematics,Geometry,Intermediate,short_answer,What is the area of a square with side length 11,Single integer
+Q000119,Mathematics,Geometry,Intermediate,short_answer,What is the perimeter of a square with side length 9,Single integer
+Q000120,Mathematics,Geometry,Intermediate,short_answer,What is the diameter of a circle with radius 6,Single integer
+Q000121,Mathematics,Probability,Advanced,numeric,A fair coin is flipped once what is the probability of heads,Single fraction or decimal
+Q000122,Mathematics,Probability,Advanced,numeric,A fair die is rolled once what is the probability of rolling a 4,Single fraction or decimal
+Q000123,Mathematics,Probability,Advanced,numeric,A bag contains 3 red marbles and 2 blue marbles what is the probability of drawing a blue marble,Single fraction or decimal
+Q000124,Mathematics,Probability,Advanced,numeric,A spinner has 8 equal sections with 3 labeled red what is the probability of landing on red,Single fraction or decimal
+Q000125,Mathematics,Probability,Advanced,numeric,Two fair coins are flipped what is the probability of getting two tails,Single fraction or decimal
+Q000126,Mathematics,Probability,Advanced,numeric,What is the probability of drawing an ace from a standard deck of 52 cards,Single fraction or decimal
+Q000127,Mathematics,Probability,Advanced,numeric,What is the probability of drawing a face card from a standard deck,Single fraction or decimal
+Q000128,Mathematics,Probability,Advanced,numeric,What is the probability of selecting an even number from the set 1 through 10,Single fraction or decimal
+Q000129,Mathematics,Probability,Advanced,numeric,What is the probability of rolling an even number on a fair die,Single fraction or decimal
+Q000130,Mathematics,Probability,Advanced,numeric,What is the probability of drawing a heart from a standard deck,Single fraction or decimal
+Q000131,Logical Reasoning,Patterns,Beginner,short_answer,What number comes next in the sequence 2 4 6 8,Single integer
+Q000132,Logical Reasoning,Patterns,Beginner,short_answer,What number comes next in the sequence 3 6 9 12,Single integer
+Q000133,Logical Reasoning,Patterns,Beginner,short_answer,What number comes next in the sequence 5 10 15 20,Single integer
+Q000134,Logical Reasoning,Patterns,Beginner,short_answer,What number comes next in the sequence 1 4 9 16,Single integer
+Q000135,Logical Reasoning,Patterns,Beginner,short_answer,What number comes next in the sequence 2 3 5 8 13,Single integer
+Q000136,Logical Reasoning,Patterns,Beginner,short_answer,What number comes next in the sequence 10 8 6 4,Single integer
+Q000137,Logical Reasoning,Patterns,Beginner,short_answer,What number comes next in the sequence 1 2 4 8 16,Single integer
+Q000138,Logical Reasoning,Patterns,Beginner,short_answer,What number comes next in the sequence 7 14 21 28,Single integer
+Q000139,Logical Reasoning,Patterns,Beginner,short_answer,What number comes next in the sequence 20 18 16 14,Single integer
+Q000140,Logical Reasoning,Patterns,Beginner,short_answer,What number comes next in the sequence 1 3 6 10 15,Single integer
+Q000141,Logical Reasoning,Logic,Puzzle,short_answer,All roses are flowers. Some flowers fade quickly. Which statement must be true,One sentence
+Q000142,Logical Reasoning,Logic,Puzzle,short_answer,If every student is curious and Maya is a student what can be concluded,One sentence
+Q000143,Logical Reasoning,Logic,Puzzle,short_answer,If no cats bark and some dogs bark what can be concluded,One sentence
+Q000144,Logical Reasoning,Logic,Puzzle,short_answer,If all engineers are careful and Sam is careful what can be concluded,One sentence
+Q000145,Logical Reasoning,Logic,Puzzle,short_answer,If some books are heavy and all heavy books are old what can be concluded,One sentence
+Q000146,Logical Reasoning,Logic,Puzzle,short_answer,Which statement is logically valid if A implies B and B implies C,One sentence
+Q000147,Logical Reasoning,Logic,Puzzle,short_answer,If it rains then the ground gets wet. The ground is not wet. What can be concluded,One sentence
+Q000148,Logical Reasoning,Logic,Puzzle,short_answer,If today is Monday then tomorrow is Tuesday. Today is Monday. What is tomorrow,One word
+Q000149,Logical Reasoning,Logic,Puzzle,short_answer,If all squares are rectangles and some rectangles are blue what can be concluded,One sentence
+Q000150,Logical Reasoning,Logic,Puzzle,short_answer,If no birds are mammals and penguins are birds what can be concluded,One sentence
+Q000151,Programming,Python,Beginner,short_answer,What is the output of print 2 + 3,Single line of output
+Q000152,Programming,Python,Beginner,short_answer,What is the output of print 10 - 4,Single line of output
+Q000153,Programming,Python,Beginner,short_answer,What is the output of print 6 * 5,Single line of output
+Q000154,Programming,Python,Beginner,short_answer,What is the output of print 25 // 4,Single line of output
+Q000155,Programming,Python,Beginner,short_answer,What is the output of print 9 % 2,Single line of output
+Q000156,Programming,Python,Beginner,short_answer,What is the output of print 2 ** 3,Single line of output
+Q000157,Programming,Python,Beginner,short_answer,What is the output of print len hello,Single line of output
+Q000158,Programming,Python,Beginner,short_answer,What is the output of print hello upper,Single line of output
+Q000159,Programming,Python,Beginner,short_answer,What is the output of print 3 == 3,Single line of output
+Q000160,Programming,Python,Beginner,short_answer,What is the output of print 4 < 2,Single line of output
+Q000161,Programming,Control Flow,Intermediate,short_answer,Write a Python function that returns True if a number is even,Python function
+Q000162,Programming,Control Flow,Intermediate,short_answer,Write a Python function that returns the larger of two numbers,Python function
+Q000163,Programming,Control Flow,Intermediate,short_answer,Write a Python function that counts vowels in a string,Python function
+Q000164,Programming,Control Flow,Intermediate,short_answer,Write a Python function that reverses a string,Python function
+Q000165,Programming,Control Flow,Intermediate,short_answer,Write a Python function that computes the factorial of a positive integer,Python function
+Q000166,Programming,Control Flow,Intermediate,short_answer,Write a Python function that checks whether a string is a palindrome,Python function
+Q000167,Programming,Control Flow,Intermediate,short_answer,Write a Python function that multiplies all elements in a list,Python function
+Q000168,Programming,Control Flow,Intermediate,short_answer,Write a Python function that returns the first n Fibonacci numbers,Python function
+Q000169,Programming,Data Structures,Advanced,short_answer,Explain the difference between a list and a tuple in Python,One paragraph
+Q000170,Programming,Data Structures,Advanced,short_answer,Explain when to use a dictionary instead of a list,One paragraph
+Q000171,Programming,Debugging,Advanced,short_answer,Identify the bug in the code snippet x = 5 then x = x + y with y undefined,One sentence
+Q000172,Programming,Debugging,Advanced,short_answer,Identify the bug in a loop that never terminates because the counter is not updated,One sentence
+Q000173,Programming,Debugging,Advanced,short_answer,Explain why a function may return None when it is expected to return a number,One paragraph
+Q000174,Programming,Debugging,Advanced,short_answer,Explain how to fix an off by one error in a loop,One paragraph
+Q000175,Programming,Debugging,Advanced,short_answer,Describe the effect of using a mutable default argument in Python,One paragraph
+Q000176,Programming,Debugging,Advanced,short_answer,Explain how to avoid modifying a list while iterating over it,One paragraph
+Q000177,Programming,Algorithms,Advanced,long_form,Describe an algorithm to sort a list of numbers without using built in sorting functions,Short explanation
+Q000178,Programming,Algorithms,Advanced,long_form,Describe how to determine whether a string contains a palindrome substring efficiently,Short explanation
+Q000179,Programming,Algorithms,Advanced,long_form,Outline a strategy to find the shortest path in a graph,Short explanation
+Q000180,Programming,Algorithms,Advanced,long_form,Explain how to check whether a number is prime,Short explanation
+Q000181,Science,Physics,Beginner,short_answer,What force pulls objects toward Earth,Single word
+Q000182,Science,Physics,Beginner,short_answer,What is the unit of electrical resistance,Single word
+Q000183,Science,Physics,Beginner,short_answer,What is the speed of sound in air at room temperature approximately,Single number
+Q000184,Science,Physics,Beginner,short_answer,What is the formula for kinetic energy,One expression
+Q000185,Science,Physics,Beginner,short_answer,What do we call the change in velocity over time,Single word
+Q000186,Science,Chemistry,Beginner,short_answer,What is the chemical symbol for water,Single word
+Q000187,Science,Chemistry,Beginner,short_answer,What gas do plants absorb from the atmosphere,Single word
+Q000188,Science,Chemistry,Beginner,short_answer,What is the pH of pure water,Single number
+Q000189,Science,Chemistry,Beginner,short_answer,What is the process of a liquid changing into a gas called,Single word
+Q000190,Science,Chemistry,Beginner,short_answer,What element has the symbol O,Single word
+Q000191,Science,Biology,Intermediate,short_answer,What organ pumps blood through the body,Single word
+Q000192,Science,Biology,Intermediate,short_answer,What process do plants use to convert sunlight into energy,Single word
+Q000193,Science,Biology,Intermediate,short_answer,What is the basic unit of life,Single word
+Q000194,Science,Biology,Intermediate,short_answer,What part of the cell contains genetic material,Single word
+Q000195,Science,Biology,Intermediate,short_answer,What is the name of the process by which cells divide,Single word
+Q000196,Science,Earth Science,Intermediate,short_answer,What is the name of the supercontinent that existed long ago,Single word
+Q000197,Science,Earth Science,Intermediate,short_answer,What type of rock forms from cooled magma,Single word
+Q000198,Science,Earth Science,Intermediate,short_answer,What drives the water cycle,Single word
+Q000199,Science,Earth Science,Intermediate,short_answer,What is the layer of gas surrounding Earth called,Single word
+Q000200,Science,Earth Science,Intermediate,short_answer,What causes seasons on Earth,Single phrase
+Q000201,Language,Grammar,Beginner,short_answer,Choose the correct sentence She go to school every day,One sentence
+Q000202,Language,Grammar,Beginner,short_answer,Choose the correct sentence They is playing soccer,One sentence
+Q000203,Language,Grammar,Beginner,short_answer,Choose the correct sentence I have eaten breakfast already,One sentence
+Q000204,Language,Grammar,Beginner,short_answer,Choose the correct sentence We was late for class,One sentence
+Q000205,Language,Grammar,Beginner,short_answer,Choose the correct sentence He writes very clearly,One sentence
+Q000206,Language,Vocabulary,Beginner,short_answer,What is the opposite of happy,Single word
+Q000207,Language,Vocabulary,Beginner,short_answer,What is the opposite of ancient,Single word
+Q000208,Language,Vocabulary,Beginner,short_answer,What is a synonym for quick,Single word
+Q000209,Language,Vocabulary,Beginner,short_answer,What is a synonym for large,Single word
+Q000210,Language,Vocabulary,Beginner,short_answer,What is the plural of child,Single word
+Q000211,Language,Writing,Intermediate,long_form,Write a two sentence summary of a rainy day,Two sentences
+Q000212,Language,Writing,Intermediate,long_form,Write a short description of a library in winter,Two sentences
+Q000213,Language,Writing,Intermediate,long_form,Write a brief explanation of why teamwork matters,Two sentences
+Q000214,Language,Writing,Intermediate,long_form,Write a sentence using the word cautious,One sentence
+Q000215,Language,Writing,Intermediate,long_form,Write a sentence using the word curious,One sentence
+Q000216,Language,Reading,Advanced,long_form,Explain the main idea of a short narrative about a student who helps a neighbor,One paragraph
+Q000217,Language,Reading,Advanced,long_form,Explain how the author's tone shifts from excitement to worry in a short story,One paragraph
+Q000218,Language,Reading,Advanced,long_form,Write a summary of the key conflict in a story about a competition,One paragraph
+Q000219,Language,Reading,Advanced,long_form,Describe how the setting affects the mood of a scene,One paragraph
+Q000220,Language,Reading,Advanced,long_form,Identify the theme of a story about a traveler who learns patience,One paragraph
+Q000221,Critical Thinking,Reasoning,Intermediate,short_answer,If all cars need fuel and a bicycle is not a car what can be concluded,One sentence
+Q000222,Critical Thinking,Reasoning,Intermediate,short_answer,If a student studies every weekend and the exam is next week what is the most likely conclusion,One sentence
+Q000223,Critical Thinking,Reasoning,Intermediate,short_answer,Which claim is more reliable a rumor from social media or a report from an official source,One sentence
+Q000224,Critical Thinking,Reasoning,Intermediate,short_answer,What is the strongest argument against a plan that ignores safety risks,One sentence
+Q000225,Critical Thinking,Reasoning,Intermediate,short_answer,How can you test whether a claim is based on evidence rather than opinion,One sentence
+Q000226,Critical Thinking,Evaluation,Advanced,long_form,Compare the pros and cons of using public transportation instead of driving,One paragraph
+Q000227,Critical Thinking,Evaluation,Advanced,long_form,Explain how a policy change could affect both cost and fairness,One paragraph
+Q000228,Critical Thinking,Evaluation,Advanced,long_form,Assess whether a shortcut that saves time is worth the added risk,One paragraph
+Q000229,Critical Thinking,Evaluation,Advanced,long_form,Explain why two people can interpret the same fact differently,One paragraph
+Q000230,Critical Thinking,Evaluation,Advanced,long_form,Describe how confirmation bias could distort a decision,One paragraph
+Q000231,Instruction Following,Direction,Beginner,short_answer,Write a three step plan for making tea,Three step list
+Q000232,Instruction Following,Direction,Beginner,short_answer,Write a three step plan for packing a backpack,Three step list
+Q000233,Instruction Following,Direction,Beginner,short_answer,Write a three step plan for cleaning a desk,Three step list
+Q000234,Instruction Following,Direction,Beginner,short_answer,Write a three step plan for watering a plant,Three step list
+Q000235,Instruction Following,Direction,Beginner,short_answer,Write a three step plan for preparing toast,Three step list
+Q000236,Instruction Following,Constraint,Intermediate,long_form,Write a response under 20 words that explains why reading matters,Under 20 words
+Q000237,Instruction Following,Constraint,Intermediate,long_form,Write a response with exactly three clauses describing a day at school,Exactly three clauses
+Q000238,Instruction Following,Constraint,Intermediate,long_form,Write a two sentence answer that includes the words careful and patient,Two sentences
+Q000239,Instruction Following,Constraint,Intermediate,long_form,Write a sentence that mentions both a tool and a task,One sentence
+Q000240,Instruction Following,Constraint,Intermediate,long_form,Write a short answer that excludes the letter e,Short answer
+Q000241,Data Interpretation,Tables,Intermediate,short_answer,If a table shows 5 apples on Monday and 8 on Tuesday what is the increase,Single integer
+Q000242,Data Interpretation,Tables,Intermediate,short_answer,If a chart shows 30 sales in January and 45 in February what is the percent increase,Single percent
+Q000243,Data Interpretation,Charts,Intermediate,short_answer,If a bar chart shows 10 books read in April and 15 in May what is the difference,Single integer
+Q000244,Data Interpretation,Charts,Intermediate,short_answer,If a line graph rises from 20 to 35 over one week what is the change,Single integer
+Q000245,Data Interpretation,Charts,Intermediate,short_answer,If a pie chart shows 25 percent for one category what fraction is that,Single fraction
+Q000246,Data Interpretation,Analysis,Advanced,long_form,Interpret the trend in a dataset that increases steadily for three months then drops sharply,One paragraph
+Q000247,Data Interpretation,Analysis,Advanced,long_form,Explain what a sudden spike in a time series likely suggests,One paragraph
+Q000248,Data Interpretation,Analysis,Advanced,long_form,Describe how to compare two sets of monthly sales data fairly,One paragraph
+Q000249,Data Interpretation,Analysis,Advanced,long_form,Explain how to detect an outlier in a small dataset,One paragraph
+Q000250,Data Interpretation,Analysis,Advanced,long_form,Explain how to summarize the central tendency of a numerical dataset,One paragraph
+Q000251,Creative Reasoning,Story,Beginner,long_form,Write a two sentence story about a fox and a lantern,Two sentences
+Q000252,Creative Reasoning,Story,Beginner,long_form,Write a two sentence story about a lost key and a locked gate,Two sentences
+Q000253,Creative Reasoning,Story,Beginner,long_form,Write a two sentence story about a train that arrives at midnight,Two sentences
+Q000254,Creative Reasoning,Story,Beginner,long_form,Write a two sentence story about a backpack that whispers,Two sentences
+Q000255,Creative Reasoning,Story,Beginner,long_form,Write a two sentence story about a rainstorm in a desert,Two sentences
+Q000256,Creative Reasoning,Problem Solving,Intermediate,long_form,Design a solution for transporting groceries without a car,One paragraph
+Q000257,Creative Reasoning,Problem Solving,Intermediate,long_form,Design a way to organize a crowded desk using limited materials,One paragraph
+Q000258,Creative Reasoning,Problem Solving,Intermediate,long_form,Invent a method for keeping a classroom quiet during independent work,One paragraph
+Q000259,Creative Reasoning,Problem Solving,Intermediate,long_form,Describe a creative way to teach fractions to young children,One paragraph
+Q000260,Creative Reasoning,Problem Solving,Intermediate,long_form,Design a way to share one laptop among five students fairly,One paragraph
+Q000261,General Knowledge,Geography,Beginner,short_answer,What is the capital of France,Single word
+Q000262,General Knowledge,Geography,Beginner,short_answer,What is the capital of Japan,Single word
+Q000263,General Knowledge,Geography,Beginner,short_answer,What is the largest ocean on Earth,Single word
+Q000264,General Knowledge,Geography,Beginner,short_answer,What is the longest river in the world,Single phrase
+Q000265,General Knowledge,Geography,Beginner,short_answer,What is the tallest mountain above sea level,Single word
+Q000266,General Knowledge,History,Beginner,short_answer,Who was the first president of the United States,Single name
+Q000267,General Knowledge,History,Beginner,short_answer,Which ancient civilization built pyramids in Egypt,Single word
+Q000268,General Knowledge,History,Beginner,short_answer,In which year did the first moon landing occur,Single year
+Q000269,General Knowledge,History,Beginner,short_answer,Who wrote the Declaration of Independence,Single name
+Q000270,General Knowledge,History,Beginner,short_answer,Which empire was ruled by Julius Caesar,Single word
+Q000271,General Knowledge,Technology,Intermediate,short_answer,What does CPU stand for,Single phrase
+Q000272,General Knowledge,Technology,Intermediate,short_answer,What does HTML stand for,Single phrase
+Q000273,General Knowledge,Technology,Intermediate,short_answer,What does URL stand for,Single phrase
+Q000274,General Knowledge,Technology,Intermediate,short_answer,What is the primary purpose of a firewall,One sentence
+Q000275,General Knowledge,Technology,Intermediate,short_answer,What is the difference between RAM and storage,One sentence
+Q000276,General Knowledge,Arts,Beginner,short_answer,Who painted the Mona Lisa,Single name
+Q000277,General Knowledge,Arts,Beginner,short_answer,What instrument has 88 keys,Single word
+Q000278,General Knowledge,Arts,Beginner,short_answer,Which art style is famous for dreamlike imagery and unexpected scenes,Single word
+Q000279,General Knowledge,Arts,Beginner,short_answer,What is the main color on the flag of Japan,Single word
+Q000280,General Knowledge,Arts,Beginner,short_answer,Who wrote Hamlet,Single name
+Q000281,Real World Decision Making,Planning,Intermediate,short_answer,If you need to prepare for a job interview in one evening what is the best order of tasks,Short list
+Q000282,Real World Decision Making,Planning,Intermediate,short_answer,If you have a limited budget and need groceries for a week what should you prioritize,One paragraph
+Q000283,Real World Decision Making,Planning,Intermediate,short_answer,If a friend is overwhelmed by homework what is the most supportive response,One sentence
+Q000284,Real World Decision Making,Planning,Intermediate,short_answer,If a device is running slowly what is the first troubleshooting step,One sentence
+Q000285,Real World Decision Making,Planning,Intermediate,short_answer,If you must choose between two job offers what factors should you compare,One paragraph
+Q000286,Common Sense Reasoning,Daily Life,Beginner,short_answer,If the doorbell rings while you are cooking dinner what is the most sensible action,One sentence
+Q000287,Common Sense Reasoning,Daily Life,Beginner,short_answer,If a lightbulb is flickering in a room what should you do first,One sentence
+Q000288,Common Sense Reasoning,Daily Life,Beginner,short_answer,If you forget your umbrella and it starts raining what is the best response,One sentence
+Q000289,Common Sense Reasoning,Daily Life,Beginner,short_answer,If a classmate looks upset and says they need space what is a respectful response,One sentence
+Q000290,Common Sense Reasoning,Daily Life,Beginner,short_answer,If you smell smoke in the hallway what should you do immediately,One sentence
+Q000291,Structured Information Extraction,Extraction,Intermediate,short_answer,Extract the date from the sentence The meeting will be on April 12 at 3 pm,Single date
+Q000292,Structured Information Extraction,Extraction,Intermediate,short_answer,Extract the name of the city from the sentence The train leaves from Chicago tomorrow,Single word
+Q000293,Structured Information Extraction,Extraction,Intermediate,short_answer,Extract the quantity from the sentence The package weighs 2 kilograms,Single number
+Q000294,Structured Information Extraction,Extraction,Intermediate,short_answer,Extract the time from the sentence Please call me at 7 30 in the evening,Single time
+Q000295,Structured Information Extraction,Extraction,Intermediate,short_answer,Extract the title from the sentence Dr. Patel is the lead researcher for the project,Single phrase
+Q000296,Interdisciplinary Reasoning,STEM,Advanced,long_form,Explain how a city can reduce traffic congestion using data analysis and public policy,One paragraph
+Q000297,Interdisciplinary Reasoning,STEM,Advanced,long_form,Describe how weather patterns affect crop yield and food supply,One paragraph
+Q000298,Interdisciplinary Reasoning,STEM,Advanced,long_form,Explain how public health and engineering work together during a disease outbreak,One paragraph
+Q000299,Interdisciplinary Reasoning,STEM,Advanced,long_form,How can economics and ecology influence decisions about renewable energy,One paragraph
+Q000300,Interdisciplinary Reasoning,STEM,Advanced,long_form,Explain how psychology and design improve user experience in software,One paragraph
+Q000301,Mathematics,Arithmetic,Beginner,numeric,What is 6 plus 9,Single integer
+Q000302,Mathematics,Arithmetic,Beginner,numeric,What is 17 minus 8,Single integer
+Q000303,Mathematics,Arithmetic,Beginner,numeric,What is 5 times 8,Single integer
+Q000304,Mathematics,Arithmetic,Beginner,numeric,What is 36 divided by 6,Single integer
+Q000305,Mathematics,Arithmetic,Beginner,numeric,What is 11 plus 13,Single integer
+Q000306,Mathematics,Arithmetic,Beginner,numeric,What is 28 minus 9,Single integer
+Q000307,Mathematics,Arithmetic,Beginner,numeric,What is 7 times 9,Single integer
+Q000308,Mathematics,Arithmetic,Beginner,numeric,What is 49 divided by 7,Single integer
+Q000309,Mathematics,Arithmetic,Beginner,numeric,What is 15 plus 12,Single integer
+Q000310,Mathematics,Arithmetic,Beginner,numeric,What is 41 minus 13,Single integer
+Q000311,Mathematics,Arithmetic,Beginner,numeric,What is 4 times 9,Single integer
+Q000312,Mathematics,Arithmetic,Beginner,numeric,What is 72 divided by 8,Single integer
+Q000313,Mathematics,Arithmetic,Beginner,numeric,What is 19 plus 11,Single integer
+Q000314,Mathematics,Arithmetic,Beginner,numeric,What is 30 minus 14,Single integer
+Q000315,Mathematics,Arithmetic,Beginner,numeric,What is 6 times 7,Single integer
+Q000316,Mathematics,Arithmetic,Beginner,numeric,What is 40 divided by 5,Single integer
+Q000317,Mathematics,Arithmetic,Beginner,numeric,What is 21 plus 15,Single integer
+Q000318,Mathematics,Arithmetic,Beginner,numeric,What is 55 minus 18,Single integer
+Q000319,Mathematics,Arithmetic,Beginner,numeric,What is 8 times 8,Single integer
+Q000320,Mathematics,Arithmetic,Beginner,numeric,What is 64 divided by 8,Single integer
+Q000321,Mathematics,Arithmetic,Beginner,numeric,What is 23 plus 9,Single integer
+Q000322,Mathematics,Arithmetic,Beginner,numeric,What is 45 minus 17,Single integer
+Q000323,Mathematics,Arithmetic,Beginner,numeric,What is 3 times 12,Single integer
+Q000324,Mathematics,Arithmetic,Beginner,numeric,What is 48 divided by 4,Single integer
+Q000325,Mathematics,Arithmetic,Beginner,numeric,What is 14 plus 16,Single integer
+Q000326,Mathematics,Arithmetic,Beginner,numeric,What is 32 minus 19,Single integer
+Q000327,Mathematics,Arithmetic,Beginner,numeric,What is 9 times 6,Single integer
+Q000328,Mathematics,Arithmetic,Beginner,numeric,What is 52 divided by 4,Single integer
+Q000329,Mathematics,Arithmetic,Beginner,numeric,What is 25 plus 11,Single integer
+Q000330,Mathematics,Arithmetic,Beginner,numeric,What is 60 minus 26,Single integer
+Q000331,Mathematics,Arithmetic,Beginner,numeric,What is 12 times 5,Single integer
+Q000332,Mathematics,Arithmetic,Beginner,numeric,What is 75 divided by 5,Single integer
+Q000333,Mathematics,Arithmetic,Beginner,numeric,What is 17 plus 18,Single integer
+Q000334,Mathematics,Arithmetic,Beginner,numeric,What is 53 minus 16,Single integer
+Q000335,Mathematics,Arithmetic,Beginner,numeric,What is 11 times 11,Single integer
+Q000336,Mathematics,Arithmetic,Beginner,numeric,What is 121 divided by 11,Single integer
+Q000337,Mathematics,Arithmetic,Beginner,numeric,What is 22 plus 7,Single integer
+Q000338,Mathematics,Arithmetic,Beginner,numeric,What is 46 minus 15,Single integer
+Q000339,Mathematics,Arithmetic,Beginner,numeric,What is 7 times 11,Single integer
+Q000340,Mathematics,Arithmetic,Beginner,numeric,What is 77 divided by 7,Single integer
+Q000341,Mathematics,Arithmetic,Beginner,numeric,What is 38 plus 12,Single integer
+Q000342,Mathematics,Arithmetic,Beginner,numeric,What is 69 minus 27,Single integer
+Q000343,Mathematics,Arithmetic,Beginner,numeric,What is 10 times 10,Single integer
+Q000344,Mathematics,Arithmetic,Beginner,numeric,What is 100 divided by 10,Single integer
+Q000345,Mathematics,Arithmetic,Beginner,numeric,What is 31 plus 14,Single integer
+Q000346,Mathematics,Arithmetic,Beginner,numeric,What is 84 minus 31,Single integer
+Q000347,Mathematics,Arithmetic,Beginner,numeric,What is 5 times 13,Single integer
+Q000348,Mathematics,Arithmetic,Beginner,numeric,What is 65 divided by 13,Single integer
+Q000349,Mathematics,Arithmetic,Beginner,numeric,What is 26 plus 13,Single integer
+Q000350,Mathematics,Arithmetic,Beginner,numeric,What is 58 minus 24,Single integer
+Q000351,Logical Reasoning,Patterns,Intermediate,short_answer,What comes next in the series 1 2 4 8 16,Single integer
+Q000352,Logical Reasoning,Patterns,Intermediate,short_answer,What comes next in the series 3 6 12 24,Single integer
+Q000353,Logical Reasoning,Patterns,Intermediate,short_answer,What comes next in the series 5 10 20 40,Single integer
+Q000354,Logical Reasoning,Patterns,Intermediate,short_answer,What comes next in the series 2 5 11 23,Single integer
+Q000355,Logical Reasoning,Patterns,Intermediate,short_answer,What comes next in the series 7 14 21 28,Single integer
+Q000356,Logical Reasoning,Patterns,Intermediate,short_answer,What comes next in the series 10 9 7 4 0,Single integer
+Q000357,Logical Reasoning,Patterns,Intermediate,short_answer,What comes next in the series 1 1 2 3 5 8,Single integer
+Q000358,Logical Reasoning,Patterns,Intermediate,short_answer,What comes next in the series 4 7 13 25,Single integer
+Q000359,Logical Reasoning,Patterns,Intermediate,short_answer,What comes next in the series 9 8 6 3,Single integer
+Q000360,Logical Reasoning,Patterns,Intermediate,short_answer,What comes next in the series 12 15 19 24,Single integer
+Q000361,Logical Reasoning,Categorical,Advanced,short_answer,All mammals breathe air. Whales are mammals. What can be concluded,One sentence
+Q000362,Logical Reasoning,Categorical,Advanced,short_answer,No students are teachers. Some teachers are musicians. What can be concluded,One sentence
+Q000363,Logical Reasoning,Categorical,Advanced,short_answer,If all primes are integers and 7 is a prime what can be concluded,One sentence
+Q000364,Logical Reasoning,Categorical,Advanced,short_answer,If some books are fiction and all fiction is entertaining what can be concluded,One sentence
+Q000365,Logical Reasoning,Categorical,Advanced,short_answer,If no reptiles are mammals and turtles are reptiles what can be concluded,One sentence
+Q000366,Logical Reasoning,Categorical,Advanced,short_answer,If every athlete trains and Maya trains what can be concluded,One sentence
+Q000367,Logical Reasoning,Categorical,Advanced,short_answer,If A implies B and B implies C what can be concluded about A and C,One sentence
+Q000368,Logical Reasoning,Categorical,Advanced,short_answer,If the weather is cold then people wear coats. The weather is cold. What can be concluded,One sentence
+Q000369,Logical Reasoning,Categorical,Advanced,short_answer,If a square has four equal sides then all squares are rectangles. A shape is a square. What can be concluded,One sentence
+Q000370,Logical Reasoning,Categorical,Advanced,short_answer,If some fruits are red and all red objects are colorful what can be concluded,One sentence
+Q000371,Programming,Python,Beginner,short_answer,What does print 7 + 5 display,Single line of output
+Q000372,Programming,Python,Beginner,short_answer,What does print 12 - 4 display,Single line of output
+Q000373,Programming,Python,Beginner,short_answer,What does print 9 * 3 display,Single line of output
+Q000374,Programming,Python,Beginner,short_answer,What does print 20 / 4 display,Single line of output
+Q000375,Programming,Python,Beginner,short_answer,What does print 11 % 3 display,Single line of output
+Q000376,Programming,Python,Beginner,short_answer,What does print 2 ** 5 display,Single line of output
+Q000377,Programming,Python,Beginner,short_answer,What does print len banana display,Single line of output
+Q000378,Programming,Python,Beginner,short_answer,What does print banana upper display,Single line of output
+Q000379,Programming,Python,Beginner,short_answer,What does print 8 == 8 display,Single line of output
+Q000380,Programming,Python,Beginner,short_answer,What does print 3 < 1 display,Single line of output
+Q000381,Programming,Control Flow,Intermediate,long_form,Write a Python function that returns the sum of numbers in a list,Python function
+Q000382,Programming,Control Flow,Intermediate,long_form,Write a Python function that returns the average of a list of numbers,Python function
+Q000383,Programming,Control Flow,Intermediate,long_form,Write a Python function that returns the smallest number in a list,Python function
+Q000384,Programming,Control Flow,Intermediate,long_form,Write a Python function that returns the largest number in a list,Python function
+Q000385,Programming,Control Flow,Intermediate,long_form,Write a Python function that checks if a number is divisible by 3,Python function
+Q000386,Programming,Data Structures,Intermediate,long_form,Explain how a dictionary differs from a list in Python,One paragraph
+Q000387,Programming,Data Structures,Intermediate,long_form,Explain why using sets can be useful for removing duplicates,One paragraph
+Q000388,Programming,Data Structures,Intermediate,long_form,Describe how a stack works in a simple program,One paragraph
+Q000389,Programming,Algorithms,Advanced,long_form,Explain how to implement binary search on a sorted list,One paragraph
+Q000390,Programming,Algorithms,Advanced,long_form,Describe the steps of bubble sort on a small list,One paragraph
+Q000391,Programming,Debugging,Advanced,long_form,Identify the likely bug in a loop that forgets to increment its counter,One paragraph
+Q000392,Programming,Debugging,Advanced,long_form,Explain why a program might crash when accessing an index that is too large,One paragraph
+Q000393,Programming,Debugging,Advanced,long_form,Explain how to fix a function that is returning the wrong value because of variable shadowing,One paragraph
+Q000394,Programming,Debugging,Advanced,long_form,Describe how to test a function that relies on random numbers,One paragraph
+Q000395,Programming,Debugging,Advanced,long_form,Explain how to avoid infinite recursion in a recursive function,One paragraph
+Q000396,Science,Physics,Beginner,short_answer,What force keeps planets in orbit around the sun,Single word
+Q000397,Science,Physics,Beginner,short_answer,What is the SI unit of force,Single word
+Q000398,Science,Physics,Beginner,short_answer,What is the formula for gravitational potential energy,One expression
+Q000399,Science,Physics,Beginner,short_answer,What happens to the temperature of water as it freezes,Single phrase
+Q000400,Science,Physics,Beginner,short_answer,What is the measure of how fast particles move in a substance,Single word
+Q000401,Science,Chemistry,Intermediate,short_answer,What is the chemical symbol for sodium,Single word
+Q000402,Science,Chemistry,Intermediate,short_answer,What is the chemical formula for carbon dioxide,One expression
+Q000403,Science,Chemistry,Intermediate,short_answer,What is the process of a gas turning into a liquid called,Single word
+Q000404,Science,Chemistry,Intermediate,short_answer,What does pH measure,One phrase
+Q000405,Science,Chemistry,Intermediate,short_answer,What is the common name for sodium chloride,Single word
+Q000406,Science,Biology,Intermediate,short_answer,What part of the plant absorbs water from the soil,Single word
+Q000407,Science,Biology,Intermediate,short_answer,What do we call an organism that makes its own food,Single word
+Q000408,Science,Biology,Intermediate,short_answer,What is the name of the molecule that carries genetic instructions,Single word
+Q000409,Science,Biology,Intermediate,short_answer,What part of the eye focuses light,Single word
+Q000410,Science,Biology,Intermediate,short_answer,Which blood cells fight infection,Single word
+Q000411,Science,Earth Science,Advanced,short_answer,What causes the movement of tectonic plates,Single phrase
+Q000412,Science,Earth Science,Advanced,short_answer,Which layer of Earth is liquid,Single word
+Q000413,Science,Earth Science,Advanced,short_answer,What is the term for a rock that forms from sediment under pressure,Single word
+Q000414,Science,Earth Science,Advanced,short_answer,What is the main source of energy for Earths climate system,Single phrase
+Q000415,Science,Earth Science,Advanced,short_answer,What type of cloud often brings heavy rain,Single word
+Q000416,Language,Vocabulary,Beginner,short_answer,What is the opposite of weak,Single word
+Q000417,Language,Vocabulary,Beginner,short_answer,What is the opposite of visible,Single word
+Q000418,Language,Vocabulary,Beginner,short_answer,What is the opposite of silent,Single word
+Q000419,Language,Vocabulary,Beginner,short_answer,What is a synonym for happy,Single word
+Q000420,Language,Vocabulary,Beginner,short_answer,What is a synonym for calm,Single word
+Q000421,Language,Grammar,Intermediate,short_answer,Choose the correct sentence The dog barked loudly last night,One sentence
+Q000422,Language,Grammar,Intermediate,short_answer,Choose the correct sentence I have never seen such a thing,One sentence
+Q000423,Language,Grammar,Intermediate,short_answer,Choose the correct sentence They are going to the market,One sentence
+Q000424,Language,Grammar,Intermediate,short_answer,Choose the correct sentence We have been here since morning,One sentence
+Q000425,Language,Grammar,Intermediate,short_answer,Choose the correct sentence The children were laughing at the clown,One sentence
+Q000426,Language,Writing,Intermediate,long_form,Write a short paragraph about a school trip,One paragraph
+Q000427,Language,Writing,Intermediate,long_form,Write a short paragraph about a favorite meal,One paragraph
+Q000428,Language,Writing,Intermediate,long_form,Write a short paragraph about a quiet morning,One paragraph
+Q000429,Language,Writing,Intermediate,long_form,Write a short paragraph about a small act of kindness,One paragraph
+Q000430,Language,Writing,Intermediate,long_form,Write a short paragraph about a city at night,One paragraph
+Q000431,Critical Thinking,Evaluation,Intermediate,short_answer,Which is more trustworthy a firsthand account or a secondhand rumor,One sentence
+Q000432,Critical Thinking,Evaluation,Intermediate,short_answer,What makes a source more credible,One sentence
+Q000433,Critical Thinking,Evaluation,Intermediate,short_answer,How can you distinguish fact from opinion,One sentence
+Q000434,Critical Thinking,Evaluation,Intermediate,short_answer,Why is it important to check multiple sources before drawing a conclusion,One sentence
+Q000435,Critical Thinking,Evaluation,Intermediate,short_answer,How could bias affect a person making a decision,One sentence
+Q000436,Critical Thinking,Argument,Advanced,long_form,Build a clear argument for why students should learn to code,One paragraph
+Q000437,Critical Thinking,Argument,Advanced,long_form,Build a clear argument against allowing smartphones in every classroom,One paragraph
+Q000438,Critical Thinking,Argument,Advanced,long_form,Explain why data alone is not enough to make a fair policy decision,One paragraph
+Q000439,Critical Thinking,Argument,Advanced,long_form,Discuss how context changes the meaning of evidence,One paragraph
+Q000440,Critical Thinking,Argument,Advanced,long_form,Compare the risks of a quick decision and a delayed decision in a crisis,One paragraph
+Q000441,Instruction Following,Constraint,Beginner,long_form,Write exactly five words describing a beach,Five words
+Q000442,Instruction Following,Constraint,Beginner,long_form,Write exactly three words describing a mountain,Three words
+Q000443,Instruction Following,Constraint,Beginner,long_form,Write exactly two sentences about a library,Two sentences
+Q000444,Instruction Following,Constraint,Beginner,long_form,Write a sentence that contains the word sunrise,One sentence
+Q000445,Instruction Following,Constraint,Beginner,long_form,Write a sentence that contains both rain and wind,One sentence
+Q000446,Data Interpretation,Tables,Intermediate,short_answer,If a table shows 20 chairs in room A and 30 in room B what is the difference,Single integer
+Q000447,Data Interpretation,Tables,Intermediate,short_answer,If a table shows 5 errors on Monday and 9 errors on Tuesday what is the increase,Single integer
+Q000448,Data Interpretation,Tables,Intermediate,short_answer,If a table shows 40 sales in week one and 52 in week two what is the percent increase,Single percent
+Q000449,Data Interpretation,Charts,Intermediate,short_answer,If a pie chart shows 50 percent for one category what fraction is that,Single fraction
+Q000450,Data Interpretation,Charts,Intermediate,short_answer,If a line graph rises from 15 to 30 what is the change,Single integer
+Q000451,Creative Reasoning,Story,Intermediate,long_form,Write a short story in which a broken compass leads to a hidden garden,One paragraph
+Q000452,Creative Reasoning,Story,Intermediate,long_form,Write a short story about a train that arrives carrying winter flowers,One paragraph
+Q000453,Creative Reasoning,Story,Intermediate,long_form,Write a short story in which a library door opens only at sunset,One paragraph
+Q000454,Creative Reasoning,Story,Intermediate,long_form,Write a short story about a child who discovers a language in the clouds,One paragraph
+Q000455,Creative Reasoning,Story,Intermediate,long_form,Write a short story about a lost map that leads to a new home,One paragraph
+Q000456,General Knowledge,Geography,Beginner,short_answer,What is the capital of Germany,Single word
+Q000457,General Knowledge,Geography,Beginner,short_answer,What is the capital of Italy,Single word
+Q000458,General Knowledge,Geography,Beginner,short_answer,What is the capital of Brazil,Single word
+Q000459,General Knowledge,Geography,Beginner,short_answer,What is the largest desert on Earth,Single word
+Q000460,General Knowledge,Geography,Beginner,short_answer,What is the highest waterfall by volume,Single phrase
+Q000461,General Knowledge,History,Intermediate,short_answer,Who was the first emperor of Rome,Single name
+Q000462,General Knowledge,History,Intermediate,short_answer,Which event began in 1775 in the American colonies,Single phrase
+Q000463,General Knowledge,History,Intermediate,short_answer,Which civilization developed the first writing system,Single word
+Q000464,General Knowledge,History,Intermediate,short_answer,Who ruled the Mongol Empire in the 13th century,Single name
+Q000465,General Knowledge,History,Intermediate,short_answer,Which city was the capital of the Byzantine Empire,Single word
+Q000466,General Knowledge,Technology,Advanced,short_answer,What does AI stand for,Single phrase
+Q000467,General Knowledge,Technology,Advanced,short_answer,What does API stand for,Single phrase
+Q000468,General Knowledge,Technology,Advanced,short_answer,What does SQL stand for,Single phrase
+Q000469,General Knowledge,Technology,Advanced,short_answer,What is the purpose of a hash function,One sentence
+Q000470,General Knowledge,Technology,Advanced,short_answer,What is encryption used for,One sentence
+Q000471,Real World Decision Making,Planning,Advanced,long_form,Explain how to choose a safe and affordable apartment,One paragraph
+Q000472,Real World Decision Making,Planning,Advanced,long_form,Describe how a person should prepare for a major move,One paragraph
+Q000473,Real World Decision Making,Planning,Advanced,long_form,Explain how to decide whether to repair or replace a household appliance,One paragraph
+Q000474,Real World Decision Making,Planning,Advanced,long_form,Describe how to allocate time during a busy week with multiple deadlines,One paragraph
+Q000475,Real World Decision Making,Planning,Advanced,long_form,Explain how to plan a family trip on a limited budget,One paragraph
+Q000476,Common Sense Reasoning,Daily Life,Intermediate,short_answer,If you find a wallet on the street what is the most sensible thing to do,One sentence
+Q000477,Common Sense Reasoning,Daily Life,Intermediate,short_answer,If you are lost in a new city what should you do first,One sentence
+Q000478,Common Sense Reasoning,Daily Life,Intermediate,short_answer,If your phone battery is nearly empty and you need directions what is the best action,One sentence
+Q000479,Common Sense Reasoning,Daily Life,Intermediate,short_answer,If you hear a loud crash in the kitchen what should you check first,One sentence
+Q000480,Common Sense Reasoning,Daily Life,Intermediate,short_answer,If a friend asks for help but cannot tell you the exact problem what should you do,One sentence
+Q000481,Structured Information Extraction,Extraction,Intermediate,short_answer,Extract the date from the sentence The workshop begins on May 8 next week,Single date
+Q000482,Structured Information Extraction,Extraction,Intermediate,short_answer,Extract the city from the sentence The flight departs from Seattle in the morning,Single word
+Q000483,Structured Information Extraction,Extraction,Intermediate,short_answer,Extract the unit from the sentence The box weighs 3 pounds,Single word
+Q000484,Structured Information Extraction,Extraction,Intermediate,short_answer,Extract the time from the sentence The train leaves at 9 15 am,Single time
+Q000485,Structured Information Extraction,Extraction,Intermediate,short_answer,Extract the person name from the sentence Maria is presenting the report,Single name
+Q000486,Interdisciplinary Reasoning,STEM,Advanced,long_form,Explain how climate change affects water systems and public health,One paragraph
+Q000487,Interdisciplinary Reasoning,STEM,Advanced,long_form,Explain how transportation planning affects air quality and health,One paragraph
+Q000488,Interdisciplinary Reasoning,STEM,Advanced,long_form,Describe how agriculture and economics interact during a drought,One paragraph
+Q000489,Interdisciplinary Reasoning,STEM,Advanced,long_form,Explain how communication design influences trust in public health campaigns,One paragraph
+Q000490,Interdisciplinary Reasoning,STEM,Advanced,long_form,Explain how the internet and social behavior shape modern learning,One paragraph
+Q000491,Mathematics,Arithmetic,Expert,numeric,What is 327 plus 489,Single integer
+Q000492,Mathematics,Arithmetic,Expert,numeric,What is 941 minus 378,Single integer
+Q000493,Mathematics,Arithmetic,Expert,numeric,What is 57 times 19,Single integer
+Q000494,Mathematics,Arithmetic,Expert,numeric,What is 864 divided by 12,Single integer
+Q000495,Mathematics,Arithmetic,Expert,numeric,What is 274 plus 186,Single integer
+Q000496,Mathematics,Arithmetic,Expert,numeric,What is 731 minus 419,Single integer
+Q000497,Mathematics,Arithmetic,Expert,numeric,What is 63 times 17,Single integer
+Q000498,Mathematics,Arithmetic,Expert,numeric,What is 945 divided by 15,Single integer
+Q000499,Mathematics,Arithmetic,Expert,numeric,What is 442 plus 357,Single integer
+Q000500,Mathematics,Arithmetic,Expert,numeric,What is 802 minus 564,Single integer
